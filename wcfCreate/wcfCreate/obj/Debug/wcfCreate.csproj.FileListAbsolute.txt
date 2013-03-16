@@ -1,0 +1,4 @@
+c:\users\tr0004\documents\visual studio 2012\Projects\wcfCreate\wcfCreate\bin\wcfCreate.dll
+c:\users\tr0004\documents\visual studio 2012\Projects\wcfCreate\wcfCreate\bin\wcfCreate.pdb
+c:\users\tr0004\documents\visual studio 2012\Projects\wcfCreate\wcfCreate\obj\Debug\wcfCreate.dll
+c:\users\tr0004\documents\visual studio 2012\Projects\wcfCreate\wcfCreate\obj\Debug\wcfCreate.pdb
